@@ -1,2 +1,2 @@
 # cfd
-cfd is a solver for computational fluid dynamics
+cfd is a fluid dynamics solver
